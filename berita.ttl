@@ -1,0 +1,879 @@
+@prefix berita: <http://beritapolitik.id/berita/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix schema1: <http://schema.org/> .
+
+berita:artikel_0 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 20:12 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/berita/d-8467628/gelar-rakor-atr-bpn-kpk-dan-pemda-sulsel-perkuat-layanan-pertanahan" ;
+    dc:subject "Politik" ;
+    dc:title "Gelar Rakor, ATR/BPN-KPK dan Pemda Sulsel Perkuat Layanan Pertanahan" .
+
+berita:artikel_1 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 17:52 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/berita/d-8467378/mendagri-apresiasi-jajaran-tni-jaga-inflasi-dan-stabilitas-nasional" ;
+    dc:subject "Politik" ;
+    dc:title "Mendagri Apresiasi Jajaran TNI, Jaga Inflasi dan Stabilitas Nasional" .
+
+berita:artikel_10 a schema1:NewsArticle ;
+    dc:date "Selasa, 28 Apr 2026 23:36 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/internasional/d-8466095/terima-raja-charles-trump-puji-inggris-teman-dekat-di-tengah-konflik-iran" ;
+    dc:subject "Politik" ;
+    dc:title "Terima Raja Charles, Trump Puji Inggris Teman Dekat di Tengah Konflik Iran" .
+
+berita:artikel_100 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 21:22 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429203606-20-1353605/guru-nurlaela-korban-kecelakaan-kereta-bekasi-diberi-pangkat-anumerta" ;
+    dc:subject "Politik" ;
+    dc:title "Guru Nurlaela Korban Kecelakaan Kereta Bekasi Diberi Pangkat Anumerta" .
+
+berita:artikel_101 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 19:08 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429185104-12-1353570/eks-finalis-puteri-indonesia-ditangkap-polisi-buntut-kasus-malpraktik" ;
+    dc:subject "Politik" ;
+    dc:title "Eks Finalis Puteri Indonesia Ditangkap Polisi Buntut Kasus Malpraktik" .
+
+berita:artikel_102 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 19:41 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429193315-12-1353584/masinis-petugas-stasiun-diperiksa-besok-buntut-kecelakaan-maut-bekasi" ;
+    dc:subject "Politik" ;
+    dc:title "Masinis-Petugas Stasiun Diperiksa Besok Buntut Kecelakaan Maut Bekasi" .
+
+berita:artikel_103 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 19:40 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429191852-12-1353583/sultan-jogja-buka-suara-soal-kekerasan-anak-di-daycare-little-aresha" ;
+    dc:subject "Politik" ;
+    dc:title "Sultan Jogja Buka Suara soal Kekerasan Anak di Daycare Little Aresha" .
+
+berita:artikel_104 a schema1:NewsArticle ;
+    dc:date "-" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429190809-22-1353573/foto-serah-terima-jabatan-menteri-lh-dari-hanif-ke-jumhur-hidayat" ;
+    dc:subject "Politik" ;
+    dc:title "FOTO: Serah Terima Jabatan Menteri LH dari Hanif ke Jumhur Hidayat" .
+
+berita:artikel_105 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 17:55 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429162830-20-1353524/unhas-jadi-perguruan-tinggi-negeri-pertama-yang-punya-dapur-mbg" ;
+    dc:subject "Politik" ;
+    dc:title "Unhas Jadi Perguruan Tinggi Negeri Pertama yang Punya Dapur MBG" .
+
+berita:artikel_106 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 21:22 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429203606-20-1353605/guru-nurlaela-korban-kecelakaan-kereta-bekasi-diberi-pangkat-anumerta" ;
+    dc:subject "Politik" ;
+    dc:title "Guru Nurlaela Korban Kecelakaan Kereta Bekasi Diberi Pangkat Anumerta" .
+
+berita:artikel_107 a schema1:NewsArticle ;
+    dc:date "-" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429190809-22-1353573/foto-serah-terima-jabatan-menteri-lh-dari-hanif-ke-jumhur-hidayat" ;
+    dc:subject "Politik" ;
+    dc:title "FOTO: Serah Terima Jabatan Menteri LH dari Hanif ke Jumhur Hidayat" .
+
+berita:artikel_108 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 20:43 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429201929-25-1353601/solidaritas-sumut-dan-sumbar-dorong-pemulihan-aceh-lewat-hibah-rp287-m" ;
+    dc:subject "Politik" ;
+    dc:title "Solidaritas Sumut dan Sumbar Dorong Pemulihan Aceh lewat Hibah Rp287 M" .
+
+berita:artikel_109 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 20:24 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429201119-12-1353597/pungli-sel-khusus-rp100-juta-di-lapas-blitar-ditjenpas-turun-tangan" ;
+    dc:subject "Politik" ;
+    dc:title "Pungli Sel Khusus Rp100 Juta di Lapas Blitar, Ditjenpas Turun Tangan" .
+
+berita:artikel_11 a schema1:NewsArticle ;
+    dc:date "Selasa, 28 Apr 2026 18:43 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/bbc-world/d-8465743/kisah-kapten-kapal-dari-indonesia-disandera-bajak-laut-somalia" ;
+    dc:subject "Politik" ;
+    dc:title "Kisah Kapten Kapal dari Indonesia Disandera Bajak Laut Somalia" .
+
+berita:artikel_110 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 19:41 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429193315-12-1353584/masinis-petugas-stasiun-diperiksa-besok-buntut-kecelakaan-maut-bekasi" ;
+    dc:subject "Politik" ;
+    dc:title "Masinis-Petugas Stasiun Diperiksa Besok Buntut Kecelakaan Maut Bekasi" .
+
+berita:artikel_111 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 19:40 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429191852-12-1353583/sultan-jogja-buka-suara-soal-kekerasan-anak-di-daycare-little-aresha" ;
+    dc:subject "Politik" ;
+    dc:title "Sultan Jogja Buka Suara soal Kekerasan Anak di Daycare Little Aresha" .
+
+berita:artikel_112 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 19:08 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429185104-12-1353570/eks-finalis-puteri-indonesia-ditangkap-polisi-buntut-kasus-malpraktik" ;
+    dc:subject "Politik" ;
+    dc:title "Eks Finalis Puteri Indonesia Ditangkap Polisi Buntut Kasus Malpraktik" .
+
+berita:artikel_113 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 19:05 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429183705-12-1353568/resbob-divonis-25-tahun-penjara-doakan-hakim-bahagia-7-turunan" ;
+    dc:subject "Politik" ;
+    dc:title "Resbob Divonis 2,5 Tahun Penjara, Doakan Hakim Bahagia 7 Turunan" .
+
+berita:artikel_114 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 18:50 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429183411-25-1353567/wamendagri-dorong-aglomerasi-sektoral-untuk-atasi-masalah-perkotaan" ;
+    dc:subject "Politik" ;
+    dc:title "Wamendagri Dorong Aglomerasi Sektoral untuk Atasi Masalah Perkotaan" .
+
+berita:artikel_115 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 18:44 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429180722-25-1353557/mendagri-apresiasi-upaya-tni-jaga-inflasi-dan-stabilitas-nasional" ;
+    dc:subject "Politik" ;
+    dc:title "Mendagri Apresiasi Upaya TNI Jaga Inflasi dan Stabilitas Nasional" .
+
+berita:artikel_116 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 18:40 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429183204-20-1353565/pbb-hasil-muktamar-bali-gugat-surat-keputusan-menkum-ke-ptun" ;
+    dc:subject "Politik" ;
+    dc:title "PBB Hasil Muktamar Bali Gugat Surat Keputusan Menkum ke PTUN" .
+
+berita:artikel_117 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 18:37 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429182552-12-1353563/gibran-pendiri-efishery-divonis-9-tahun-penjara" ;
+    dc:subject "Politik" ;
+    dc:title "Gibran Pendiri eFishery Divonis 9 Tahun Penjara" .
+
+berita:artikel_118 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 18:29 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429180348-20-1353559/puluhan-wna-disekap-di-guest-house-kuta-bali-diserahkan-ke-imigrasi" ;
+    dc:subject "Politik" ;
+    dc:title "Puluhan WNA Disekap di Guest House Kuta Bali, Diserahkan ke Imigrasi" .
+
+berita:artikel_119 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 18:14 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429180953-12-1353558/eks-kapolres-bima-kota-dan-bandar-narkoba-boy-jadi-tersangka-tppu" ;
+    dc:subject "Politik" ;
+    dc:title "Eks Kapolres Bima Kota dan Bandar Narkoba Boy Jadi Tersangka TPPU" .
+
+berita:artikel_12 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 20:12 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/berita/d-8467628/gelar-rakor-atr-bpn-kpk-dan-pemda-sulsel-perkuat-layanan-pertanahan" ;
+    dc:subject "Politik" ;
+    dc:title "Gelar Rakor, ATR/BPN-KPK dan Pemda Sulsel Perkuat Layanan Pertanahan" .
+
+berita:artikel_120 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 18:04 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429171950-12-1353541/boyamin-maki-dkk-gugat-uu-perjanjian-internasional-ke-mk" ;
+    dc:subject "Politik" ;
+    dc:title "Boyamin MAKI dkk Gugat UU Perjanjian Internasional ke MK" .
+
+berita:artikel_121 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 17:55 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429162830-20-1353524/unhas-jadi-perguruan-tinggi-negeri-pertama-yang-punya-dapur-mbg" ;
+    dc:subject "Politik" ;
+    dc:title "Unhas Jadi Perguruan Tinggi Negeri Pertama yang Punya Dapur MBG" .
+
+berita:artikel_122 a schema1:NewsArticle ;
+    dc:date "-" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429124222-22-1353373/foto-kondisi-stasiun-bekasi-timur-usai-tabrakan-kereta" ;
+    dc:subject "Politik" ;
+    dc:title "FOTO: Kondisi Stasiun Bekasi Timur Usai Tabrakan Kereta" .
+
+berita:artikel_123 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 17:50 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429170207-20-1353531/jemaah-haji-asal-bengkulu-meninggal-usai-salat-subuh-di-madinah" ;
+    dc:subject "Politik" ;
+    dc:title "Jemaah Haji Asal Bengkulu Meninggal Usai Salat Subuh di Madinah" .
+
+berita:artikel_124 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 17:33 WIB" ;
+    dc:publisher "CNN Indonesia" ;
+    dc:source "https://www.cnnindonesia.com/nasional/20260429172957-20-1353543/sumedang-gelar-kirab-mahkota-binokasih-awal-mei" ;
+    dc:subject "Politik" ;
+    dc:title "Sumedang Gelar Kirab Mahkota Binokasih Awal Mei" .
+
+berita:artikel_13 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 17:52 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/berita/d-8467378/mendagri-apresiasi-jajaran-tni-jaga-inflasi-dan-stabilitas-nasional" ;
+    dc:subject "Politik" ;
+    dc:title "Mendagri Apresiasi Jajaran TNI, Jaga Inflasi dan Stabilitas Nasional" .
+
+berita:artikel_14 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 17:44 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/internasional/d-8467367/5-berita-terpopuler-internasional" ;
+    dc:subject "Politik" ;
+    dc:title "5 Berita Terpopuler Internasional" .
+
+berita:artikel_15 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 22:16 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://20.detik.com/detikupdate/20260418-260418034/video-pdip-sepakat-usul-kpk-soal-parpol-wajib-lapor-dana-pendidikan-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Video PDIP Sepakat Usul KPK soal Parpol Wajib Lapor Dana Pendidikan Politik" .
+
+berita:artikel_16 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 15:43 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/berita/d-8467103/mk-putuskan-pimpinan-kpk-tak-perlu-lepas-jabatan-sebelumnya" ;
+    dc:subject "Politik" ;
+    dc:title "MK Putuskan Pimpinan KPK Tak Perlu Lepas Jabatan Sebelumnya" .
+
+berita:artikel_17 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 14:33 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/dw/d-8466914/di-tengah-krisis-energi-uni-emirat-arab-keluar-dari-opec" ;
+    dc:subject "Politik" ;
+    dc:title "Di Tengah Krisis Energi, Uni Emirat Arab Keluar dari OPEC" .
+
+berita:artikel_18 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 13:42 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/berita/d-8466803/fadli-zon-ungkap-rencana-pembangunan-museum-syekh-yusuf-di-afrika-selatan" ;
+    dc:subject "Politik" ;
+    dc:title "Fadli Zon Ungkap Rencana Pembangunan Museum Syekh Yusuf di Afrika Selatan" .
+
+berita:artikel_19 a schema1:NewsArticle ;
+    dc:date "Kamis, 23 Apr 2026 23:00 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/foto-news/d-8457487/aksi-blokade-hari-bumi-di-new-york-aktivis-iklim-targetkan-trump-tower" ;
+    dc:subject "Politik" ;
+    dc:title "Aksi Blokade Hari Bumi di New York, Aktivis Iklim Targetkan Trump Tower" .
+
+berita:artikel_2 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 17:44 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/internasional/d-8467367/5-berita-terpopuler-internasional" ;
+    dc:subject "Politik" ;
+    dc:title "5 Berita Terpopuler Internasional" .
+
+berita:artikel_20 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 10:51 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/internasional/d-8466455/badan-intelijen-as-pelajari-reaksi-iran-jika-trump-umumkan-kemenangan" ;
+    dc:subject "Politik" ;
+    dc:title "Badan Intelijen AS Pelajari Reaksi Iran Jika Trump Umumkan Kemenangan" .
+
+berita:artikel_21 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 06:05 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/internasional/d-8466155/negosiasi-terbaru-iran-dan-as-temui-jalan-buntu" ;
+    dc:subject "Politik" ;
+    dc:title "â Negosiasi Terbaru Iran dan AS Temui Jalan Buntu?" .
+
+berita:artikel_22 a schema1:NewsArticle ;
+    dc:date "Selasa, 28 Apr 2026 23:36 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/internasional/d-8466095/terima-raja-charles-trump-puji-inggris-teman-dekat-di-tengah-konflik-iran" ;
+    dc:subject "Politik" ;
+    dc:title "Terima Raja Charles, Trump Puji Inggris Teman Dekat di Tengah Konflik Iran" .
+
+berita:artikel_23 a schema1:NewsArticle ;
+    dc:date "Selasa, 28 Apr 2026 18:43 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/bbc-world/d-8465743/kisah-kapten-kapal-dari-indonesia-disandera-bajak-laut-somalia" ;
+    dc:subject "Politik" ;
+    dc:title "Kisah Kapten Kapal dari Indonesia Disandera Bajak Laut Somalia" .
+
+berita:artikel_24 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 20:12 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/berita/d-8467628/gelar-rakor-atr-bpn-kpk-dan-pemda-sulsel-perkuat-layanan-pertanahan" ;
+    dc:subject "Politik" ;
+    dc:title "Gelar Rakor, ATR/BPN-KPK dan Pemda Sulsel Perkuat Layanan Pertanahan" .
+
+berita:artikel_25 a schema1:NewsArticle ;
+    dc:date "8 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://www.kompas.com/global/read/2026/04/08/090300170/politik-ketakutan-donald-trump" ;
+    dc:subject "Politik" ;
+    dc:title "Politik Ketakutan Donald Trump" .
+
+berita:artikel_26 a schema1:NewsArticle ;
+    dc:date "24 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/24/07450081/hukum-besi-partai-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Hukum Besi Partai Politik" .
+
+berita:artikel_27 a schema1:NewsArticle ;
+    dc:date "13 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://www.kompas.com/tren/read/2026/04/13/140200065/paradoks-beragama-dan-kebisuan-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Paradoks Beragama dan Kebisuan Politik" .
+
+berita:artikel_28 a schema1:NewsArticle ;
+    dc:date "28 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/28/08140421/andai-rakyat-bisa-membubarkan-partai-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Andai Rakyat Bisa Membubarkan Partai Politik" .
+
+berita:artikel_29 a schema1:NewsArticle ;
+    dc:date "10 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://www.kompas.com/tren/read/2026/04/10/073915865/politik-pencitraan-rahwana-di-balik-algoritma" ;
+    dc:subject "Politik" ;
+    dc:title "Politik Pencitraan: Rahwana di Balik Algoritma" .
+
+berita:artikel_3 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 22:20 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://20.detik.com/detikupdate/20260418-260418034/video-pdip-sepakat-usul-kpk-soal-parpol-wajib-lapor-dana-pendidikan-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Video PDIP Sepakat Usul KPK soal Parpol Wajib Lapor Dana Pendidikan Politik" .
+
+berita:artikel_30 a schema1:NewsArticle ;
+    dc:date "28 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/28/07100081/narasi-orang-kampung-dalam-tradisi-politik-indonesia" ;
+    dc:subject "Politik" ;
+    dc:title "Narasi \"Orang Kampung\" dalam Tradisi Politik Indonesia" .
+
+berita:artikel_31 a schema1:NewsArticle ;
+    dc:date "24 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/24/14000001/partai-politik--arena-demokrasi-atau-benteng-kekuasaan-" ;
+    dc:subject "Politik" ;
+    dc:title "Partai Politik: Arena Demokrasi atau Benteng Kekuasaan?" .
+
+berita:artikel_32 a schema1:NewsArticle ;
+    dc:date "9 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/09/07405231/wfh-prabowo-dan-narasi-politik-dalam-situasi-krisis" ;
+    dc:subject "Politik" ;
+    dc:title "WFH Prabowo dan Narasi Politik dalam Situasi Krisis" .
+
+berita:artikel_33 a schema1:NewsArticle ;
+    dc:date "24 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/24/15583931/kebuntuan-regenerasi-ketua-umum-partai-politik-di-indonesia" ;
+    dc:subject "Politik" ;
+    dc:title "Kebuntuan Regenerasi Ketua Umum Partai Politik di Indonesia" .
+
+berita:artikel_34 a schema1:NewsArticle ;
+    dc:date "2 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/02/14383291/nyawa-prajurit-tni-dan-arah-politik-bebas-aktif" ;
+    dc:subject "Politik" ;
+    dc:title "Nyawa Prajurit TNI dan Arah Politik Bebas Aktif" .
+
+berita:artikel_35 a schema1:NewsArticle ;
+    dc:date "25 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/25/06450031/ketua-umum-partai-politik-tanpa-batas-demokrasi-tanpa-napas" ;
+    dc:subject "Politik" ;
+    dc:title "Ketua Umum Partai Politik Tanpa Batas, Demokrasi Tanpa Napas" .
+
+berita:artikel_36 a schema1:NewsArticle ;
+    dc:date "15 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://www.kompas.com/global/read/2026/04/15/161200470/jebakan-politik-pencitraan--pelajaran-dari-robohnya-rezim-populis" ;
+    dc:subject "Politik" ;
+    dc:title "Jebakan Politik Pencitraan: Pelajaran dari Robohnya Rezim Populis Hongaria" .
+
+berita:artikel_37 a schema1:NewsArticle ;
+    dc:date "9 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://www.kompas.com/global/read/2026/04/09/054805470/populer-global-politik-kekuatan-trump-nato-akan-temui-trump" ;
+    dc:subject "Politik" ;
+    dc:title "[POPULER GLOBAL] Politik Kekuatan Trump | NATO Akan Temui Trump" .
+
+berita:artikel_38 a schema1:NewsArticle ;
+    dc:date "24 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/24/14080131/elektabilitas-partai-politik-di-tengah-polemik-ambang-batas-parlemen" ;
+    dc:subject "Politik" ;
+    dc:title "Elektabilitas Partai Politik di Tengah Polemik Ambang Batas Parlemen" .
+
+berita:artikel_39 a schema1:NewsArticle ;
+    dc:date "22 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/22/07100021/kenaikan-harga-bbm-non-subsidi-tidak-memerlukan-penjelasan-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Kenaikan Harga BBM Non-Subsidi Tidak Memerlukan Penjelasan Politik" .
+
+berita:artikel_4 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 15:43 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/berita/d-8467103/mk-putuskan-pimpinan-kpk-tak-perlu-lepas-jabatan-sebelumnya" ;
+    dc:subject "Politik" ;
+    dc:title "MK Putuskan Pimpinan KPK Tak Perlu Lepas Jabatan Sebelumnya" .
+
+berita:artikel_40 a schema1:NewsArticle ;
+    dc:date "24 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/24/13294701/mencegah-dinasti-politik-lewat-pembatasan-masa-jabatan-ketum-parpol" ;
+    dc:subject "Politik" ;
+    dc:title "Mencegah Dinasti Politik Lewat Pembatasan Masa Jabatan Ketum Parpol" .
+
+berita:artikel_41 a schema1:NewsArticle ;
+    dc:date "27 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/27/06203411/pembatasan-uang-tunai-di-pemilu-ampuhkah-hentikan-politik-uang" ;
+    dc:subject "Politik" ;
+    dc:title "Pembatasan Uang Tunai di Pemilu, Ampuhkah Hentikan Politik Uang?" .
+
+berita:artikel_42 a schema1:NewsArticle ;
+    dc:date "22 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/22/13273021/legislator-ingatkan-rekrutmen-30000-manajer-kopdes-jangan-jadi-alat-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Legislator Ingatkan Rekrutmen 30.000 Manajer Kopdes Jangan Jadi Alat Politik" .
+
+berita:artikel_43 a schema1:NewsArticle ;
+    dc:date "15 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/15/18293811/fusi-partai-di-era-sekarang-realitas-politik-atau-sekadar-wacana" ;
+    dc:subject "Politik" ;
+    dc:title "Fusi Partai di Era Sekarang: Realitas Politik atau Sekadar Wacana?" .
+
+berita:artikel_44 a schema1:NewsArticle ;
+    dc:date "10 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://internasional.kompas.com/read/2026/04/10/153628570/as-disebut-hadapi-bencana-politik-dan-ekonomi-dalam-perang-iran" ;
+    dc:subject "Politik" ;
+    dc:title "AS Disebut Hadapi Bencana Politik dan Ekonomi dalam Perang Iran" .
+
+berita:artikel_45 a schema1:NewsArticle ;
+    dc:date "8 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://www.kompas.com/global/read/2026/04/08/090300170/politik-ketakutan-donald-trump" ;
+    dc:subject "Politik" ;
+    dc:title "Politik Ketakutan Donald Trump" .
+
+berita:artikel_46 a schema1:NewsArticle ;
+    dc:date "24 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/24/07450081/hukum-besi-partai-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Hukum Besi Partai Politik" .
+
+berita:artikel_47 a schema1:NewsArticle ;
+    dc:date "13 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://www.kompas.com/tren/read/2026/04/13/140200065/paradoks-beragama-dan-kebisuan-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Paradoks Beragama dan Kebisuan Politik" .
+
+berita:artikel_48 a schema1:NewsArticle ;
+    dc:date "28 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://nasional.kompas.com/read/2026/04/28/08140421/andai-rakyat-bisa-membubarkan-partai-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Andai Rakyat Bisa Membubarkan Partai Politik" .
+
+berita:artikel_49 a schema1:NewsArticle ;
+    dc:date "10 April 2026" ;
+    dc:publisher "Kompas" ;
+    dc:source "https://www.kompas.com/tren/read/2026/04/10/073915865/politik-pencitraan-rahwana-di-balik-algoritma" ;
+    dc:subject "Politik" ;
+    dc:title "Politik Pencitraan: Rahwana di Balik Algoritma" .
+
+berita:artikel_5 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 14:33 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/dw/d-8466914/di-tengah-krisis-energi-uni-emirat-arab-keluar-dari-opec" ;
+    dc:subject "Politik" ;
+    dc:title "Di Tengah Krisis Energi, Uni Emirat Arab Keluar dari OPEC" .
+
+berita:artikel_50 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 21:48 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547893/kemkomdigi-kaji-1441-usulan-pembangunan-akses-internet-di-kalsel" ;
+    dc:subject "Politik" ;
+    dc:title "Kemkomdigi kaji 1.441 usulan pembangunan akses internet di Kalsel" .
+
+berita:artikel_51 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 21:45 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547885/menhan-sebut-keberadaan-ytp-akan-bantu-kehidupan-bantu-rakyat" ;
+    dc:subject "Politik" ;
+    dc:title "Menhan sebut keberadaan YTP akan bantu kehidupan bantu rakyat" .
+
+berita:artikel_52 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 21:40 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547876/mendagri-apresiasi-peran-tni-jaga-inflasi-dan-stabilitas-nasional" ;
+    dc:subject "Politik" ;
+    dc:title "Mendagri apresiasi peran TNI jaga inflasi dan stabilitas nasional" .
+
+berita:artikel_53 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 21:21 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547841/menhan-beri-motivasi-asn-yang-ikuti-pendidikan-komcad" ;
+    dc:subject "Politik" ;
+    dc:title "Menhan beri motivasi ASN yang ikuti pendidikan komcad" .
+
+berita:artikel_54 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 21:14 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547824/anggota-dpr-kecelakaan-bus-haji-pengingat-untuk-awasi-agenda-tambahan" ;
+    dc:subject "Politik" ;
+    dc:title "Anggota DPR: Kecelakaan bus haji pengingat untuk awasi agenda tambahan" .
+
+berita:artikel_55 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 20:44 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547783/komisi-vii-dpr-ri-pastikan-layanan-informasi-publik-di-sulteng-optimal" ;
+    dc:subject "Politik" ;
+    dc:title "Komisi VII DPR RI pastikan layanan informasi publik di Sulteng optimal" .
+
+berita:artikel_56 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 20:27 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547760/wakil-ketua-mpr-kesehatan-perempuan-tentukan-masa-depan-bangsa" ;
+    dc:subject "Politik" ;
+    dc:title "Wakil Ketua MPR: Kesehatan perempuan tentukan masa depan bangsa" .
+
+berita:artikel_57 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 19:49 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547701/dirut-antara-humas-tidak-bisa-lagi-jadi-pemadam-kebakaran" ;
+    dc:subject "Politik" ;
+    dc:title "Dirut ANTARA: Humas tidak bisa lagi jadi \"pemadam kebakaran\"" .
+
+berita:artikel_58 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 19:42 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547689/pwi-pusat-soroti-pentingnya-keadilan-informasi-bagi-masyarakat-adat" ;
+    dc:subject "Politik" ;
+    dc:title "PWI Pusat soroti pentingnya keadilan informasi bagi masyarakat adat" .
+
+berita:artikel_59 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 19:14 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547637/tni-al-perkuat-kerja-sama-bidang-maritim-dengan-australia" ;
+    dc:subject "Politik" ;
+    dc:title "TNI AL perkuat kerja sama bidang maritim dengan Australia" .
+
+berita:artikel_6 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 13:42 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/berita/d-8466803/fadli-zon-ungkap-rencana-pembangunan-museum-syekh-yusuf-di-afrika-selatan" ;
+    dc:subject "Politik" ;
+    dc:title "Fadli Zon Ungkap Rencana Pembangunan Museum Syekh Yusuf di Afrika Selatan" .
+
+berita:artikel_60 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 18:43 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547597/wamendagri-konsep-aglomerasi-solusi-tangani-sampah-dan-kemacetan" ;
+    dc:subject "Politik" ;
+    dc:title "Wamendagri: Konsep aglomerasi solusi tangani sampah dan kemacetan" .
+
+berita:artikel_61 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 18:31 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547580/wamendagri-tekankan-pemda-serius-dukung-program-psel" ;
+    dc:subject "Politik" ;
+    dc:title "Wamendagri tekankan Pemda serius dukung program PSEL" .
+
+berita:artikel_62 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 17:25 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547471/prabowo-ultimatum-pejabat-ilmuwan-tak-patriotik-untuk-keluar-barisan" ;
+    dc:subject "Politik" ;
+    dc:title "Prabowo ultimatum pejabat-ilmuwan tak patriotik untuk keluar barisan" .
+
+berita:artikel_63 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 17:09 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547427/prabowo-sebut-konflik-ukraina-hingga-gaza-picu-kenaikan-harga-pangan" ;
+    dc:subject "Politik" ;
+    dc:title "Prabowo sebut konflik Ukraina hingga Gaza picu kenaikan harga pangan" .
+
+berita:artikel_64 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 16:57 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547384/prabowo-kritik-pengusaha-yang-simpan-kekayaan-di-luar-negeri" ;
+    dc:subject "Politik" ;
+    dc:title "Prabowo kritik pengusaha yang \"simpan\" kekayaan di luar negeri" .
+
+berita:artikel_65 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 21:48 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547893/kemkomdigi-kaji-1441-usulan-pembangunan-akses-internet-di-kalsel" ;
+    dc:subject "Politik" ;
+    dc:title "Kemkomdigi kaji 1.441 usulan pembangunan akses internet di Kalsel" .
+
+berita:artikel_66 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 21:45 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547885/menhan-sebut-keberadaan-ytp-akan-bantu-kehidupan-bantu-rakyat" ;
+    dc:subject "Politik" ;
+    dc:title "Menhan sebut keberadaan YTP akan bantu kehidupan bantu rakyat" .
+
+berita:artikel_67 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 21:40 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547876/mendagri-apresiasi-peran-tni-jaga-inflasi-dan-stabilitas-nasional" ;
+    dc:subject "Politik" ;
+    dc:title "Mendagri apresiasi peran TNI jaga inflasi dan stabilitas nasional" .
+
+berita:artikel_68 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 21:21 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547841/menhan-beri-motivasi-asn-yang-ikuti-pendidikan-komcad" ;
+    dc:subject "Politik" ;
+    dc:title "Menhan beri motivasi ASN yang ikuti pendidikan komcad" .
+
+berita:artikel_69 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 21:14 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547824/anggota-dpr-kecelakaan-bus-haji-pengingat-untuk-awasi-agenda-tambahan" ;
+    dc:subject "Politik" ;
+    dc:title "Anggota DPR: Kecelakaan bus haji pengingat untuk awasi agenda tambahan" .
+
+berita:artikel_7 a schema1:NewsArticle ;
+    dc:date "Kamis, 23 Apr 2026 23:00 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/foto-news/d-8457487/aksi-blokade-hari-bumi-di-new-york-aktivis-iklim-targetkan-trump-tower" ;
+    dc:subject "Politik" ;
+    dc:title "Aksi Blokade Hari Bumi di New York, Aktivis Iklim Targetkan Trump Tower" .
+
+berita:artikel_70 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 20:44 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547783/komisi-vii-dpr-ri-pastikan-layanan-informasi-publik-di-sulteng-optimal" ;
+    dc:subject "Politik" ;
+    dc:title "Komisi VII DPR RI pastikan layanan informasi publik di Sulteng optimal" .
+
+berita:artikel_71 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 20:27 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547760/wakil-ketua-mpr-kesehatan-perempuan-tentukan-masa-depan-bangsa" ;
+    dc:subject "Politik" ;
+    dc:title "Wakil Ketua MPR: Kesehatan perempuan tentukan masa depan bangsa" .
+
+berita:artikel_72 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 19:49 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547701/dirut-antara-humas-tidak-bisa-lagi-jadi-pemadam-kebakaran" ;
+    dc:subject "Politik" ;
+    dc:title "Dirut ANTARA: Humas tidak bisa lagi jadi \"pemadam kebakaran\"" .
+
+berita:artikel_73 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 19:42 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547689/pwi-pusat-soroti-pentingnya-keadilan-informasi-bagi-masyarakat-adat" ;
+    dc:subject "Politik" ;
+    dc:title "PWI Pusat soroti pentingnya keadilan informasi bagi masyarakat adat" .
+
+berita:artikel_74 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 April 2026 19:14 WIB" ;
+    dc:publisher "Antara News" ;
+    dc:source "https://www.antaranews.com/berita/5547637/tni-al-perkuat-kerja-sama-bidang-maritim-dengan-australia" ;
+    dc:subject "Politik" ;
+    dc:title "TNI AL perkuat kerja sama bidang maritim dengan Australia" .
+
+berita:artikel_75 a schema1:NewsArticle ;
+    dc:date "24 April 2026, 20:41" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//te03dj368/pdip-jabar-luncurkan-%e2%80%98rumah-juang%e2%80%99-ineu-purwadewi-pendidikan-politik-gratis-bagi-generasi-muda" ;
+    dc:subject "Politik" ;
+    dc:title "PDIP Jabar Luncurkan ‘Rumah Juang’, Ineu Purwadewi: Pendidikan Politik Gratis bagi Generasi Muda" .
+
+berita:artikel_76 a schema1:NewsArticle ;
+    dc:date "24 April 2026, 15:45" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tdzpoj522/pakar-ingatkan-bahaya-potongan-video-tanpa-konteks-di-media-sosial" ;
+    dc:subject "Politik" ;
+    dc:title "Pakar Ingatkan Bahaya Potongan Video Tanpa Konteks di Media Sosial" .
+
+berita:artikel_77 a schema1:NewsArticle ;
+    dc:date "24 April 2026, 15:43" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tdzpkp522/gibran-sebut-jusuf-kalla-mentor-pakar-ui-nilai-cerminkan-kedewasaan-berpolitik" ;
+    dc:subject "Politik" ;
+    dc:title "Gibran Sebut Jusuf Kalla Mentor, Pakar UI Nilai Cerminkan Kedewasaan Berpolitik" .
+
+berita:artikel_78 a schema1:NewsArticle ;
+    dc:date "23 April 2026, 15:09" ;
+    dc:publisher "Republika" ;
+    dc:source "" ;
+    dc:subject "Politik" ;
+    dc:title "Ibadah Haji Jadi Oase Perdamaian di Tengah Tantangan Politik" .
+
+berita:artikel_79 a schema1:NewsArticle ;
+    dc:date "22 April 2026, 09:25" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tdviqr451/hungaria-murka-ukraina-didesak-alirkan-minyak-rusia-zelensky-dituding-mainkan-politik-energi-eropa" ;
+    dc:subject "Politik" ;
+    dc:title "Hungaria Murka: Ukraina Didesak Alirkan Minyak Rusia, Zelensky Dituding Mainkan Politik Energi Eropa" .
+
+berita:artikel_8 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 10:51 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/internasional/d-8466455/badan-intelijen-as-pelajari-reaksi-iran-jika-trump-umumkan-kemenangan" ;
+    dc:subject "Politik" ;
+    dc:title "Badan Intelijen AS Pelajari Reaksi Iran Jika Trump Umumkan Kemenangan" .
+
+berita:artikel_80 a schema1:NewsArticle ;
+    dc:date "21 April 2026, 17:31" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tduak4458/mens-rea-diskursus-politik-dan-batas-kebebasan" ;
+    dc:subject "Politik" ;
+    dc:title "Mens Rea, Diskursus Politik, dan Batas Kebebasan" .
+
+berita:artikel_81 a schema1:NewsArticle ;
+    dc:date "17 April 2026, 18:07" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tdmxjz472/ineu-purwadewi-sundari-harap-sekolah-parlemen-dorong-mahasiswa-tertarik-belajar-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Ineu Purwadewi Sundari Harap Sekolah Parlemen Dorong Mahasiswa Tertarik Belajar Politik" .
+
+berita:artikel_82 a schema1:NewsArticle ;
+    dc:date "13 April 2026, 16:18" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tdfdue487/saan-mustopa-respons-isu-fusi-politik-gerindra-nasdem" ;
+    dc:subject "Politik" ;
+    dc:title "Saan Mustopa Respons Isu Fusi Politik Gerindra-Nasdem" .
+
+berita:artikel_83 a schema1:NewsArticle ;
+    dc:date "09 April 2026, 18:09" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//td84cl490/persiapan-jadi-ibu-kota-politik-gibran-ajak-anggota-dpr-berkantor-di-ikn" ;
+    dc:subject "Politik" ;
+    dc:title "Persiapan Jadi Ibu Kota Politik, Gibran Ajak Anggota DPR Berkantor di IKN" .
+
+berita:artikel_84 a schema1:NewsArticle ;
+    dc:date "09 April 2026, 16:51" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//td7y7f318/gpci-misi-kemanusian-global-sumud-flotilla-bukan-aksi-politik" ;
+    dc:subject "Politik" ;
+    dc:title "GPCI: Misi Kemanusian Global Sumud Flotilla Bukan Aksi Politik" .
+
+berita:artikel_85 a schema1:NewsArticle ;
+    dc:date "08 April 2026, 12:33" ;
+    dc:publisher "Republika" ;
+    dc:source "" ;
+    dc:subject "Politik" ;
+    dc:title "Alienasi Politik dan Matinya Kedaulatan Dana Umat" .
+
+berita:artikel_86 a schema1:NewsArticle ;
+    dc:date "01 April 2026, 08:15" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tcsjho393/hiperrealitas-politik-presiden" ;
+    dc:subject "Politik" ;
+    dc:title "Hiperrealitas Politik Presiden" .
+
+berita:artikel_87 a schema1:NewsArticle ;
+    dc:date "30 March 2026, 17:18" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tcpjbl430/hampir-perang-rasulullah-gagalkan-politik-adu-domba-pemuka-yahudi-di-madinah" ;
+    dc:subject "Politik" ;
+    dc:title "Hampir Perang, Rasulullah Gagalkan Politik Adu Domba Pemuka Yahudi di Madinah" .
+
+berita:artikel_88 a schema1:NewsArticle ;
+    dc:date "25 March 2026, 17:40" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tcgazu451/kalender-hijriah-global-antara-kebutuhan-umat-dan-realitas-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Kalender Hijriah Global: Antara Kebutuhan Umat dan Realitas Politik" .
+
+berita:artikel_89 a schema1:NewsArticle ;
+    dc:date "21 March 2026, 19:57" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tc92o7348/sardar-azmoun-dicoret-dari-timnas-iran-isu-politik-bayangi-persiapan-menuju-piala-dunia-2026" ;
+    dc:subject "Politik" ;
+    dc:title "Sardar Azmoun Dicoret dari Timnas Iran, Isu Politik Bayangi Persiapan Menuju Piala Dunia 2026" .
+
+berita:artikel_9 a schema1:NewsArticle ;
+    dc:date "Rabu, 29 Apr 2026 06:05 WIB" ;
+    dc:publisher "Detik News" ;
+    dc:source "https://news.detik.com/internasional/d-8466155/negosiasi-terbaru-iran-dan-as-temui-jalan-buntu" ;
+    dc:subject "Politik" ;
+    dc:title "â Negosiasi Terbaru Iran dan AS Temui Jalan Buntu?" .
+
+berita:artikel_90 a schema1:NewsArticle ;
+    dc:date "14 March 2026, 14:00" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//yt-tbvng21187846047/detik-detik-aktivis-kontras-disiram-air-keras" ;
+    dc:subject "Politik" ;
+    dc:title "Detik-Detik Aktivis Kontras Disiram Air Keras" .
+
+berita:artikel_91 a schema1:NewsArticle ;
+    dc:date "10 March 2026, 16:44" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tbkmlo318/amerika-yang-terbelah-publik-donald-trump-dan-politik-perang" ;
+    dc:subject "Politik" ;
+    dc:title "Amerika yang Terbelah: Publik, Donald Trump, dan Politik Perang" .
+
+berita:artikel_92 a schema1:NewsArticle ;
+    dc:date "10 March 2026, 09:22" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tbnvxb320/mojtaba-khamenei-sistem-politik-iran-yang-kokoh-dan-rongrongan-as" ;
+    dc:subject "Politik" ;
+    dc:title "Mojtaba Khamenei, Sistem Politik Iran yang Kokoh, dan Rongrongan AS" .
+
+berita:artikel_93 a schema1:NewsArticle ;
+    dc:date "07 March 2026, 22:12" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tbjblc416/demokrat-jakarta-bangun-kekuatan-politik-di-akar-rumput" ;
+    dc:subject "Politik" ;
+    dc:title "Demokrat Jakarta Bangun Kekuatan Politik di Akar Rumput" .
+
+berita:artikel_94 a schema1:NewsArticle ;
+    dc:date "04 March 2026, 13:24" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tbd34i483/cara-israel-as-terapkan-politik-adu-domba-suni-syiah" ;
+    dc:subject "Politik" ;
+    dc:title "Cara Israel-AS Terapkan Politik Adu Domba Suni-Syiah" .
+
+berita:artikel_95 a schema1:NewsArticle ;
+    dc:date "02 March 2026, 00:29" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tb8dxu522/pengamat-soroti-dinamika-politik-di-balik-polemik-program-mbg" ;
+    dc:subject "Politik" ;
+    dc:title "Pengamat Soroti Dinamika Politik di Balik Polemik Program MBG" .
+
+berita:artikel_96 a schema1:NewsArticle ;
+    dc:date "01 March 2026, 13:15" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//yt-tb7ip11703830790/rudal-iran-hantam-haifa-tembus-iron-dome-israel" ;
+    dc:subject "Politik" ;
+    dc:title "Rudal Iran Hantam Haifa Tembus Iron Dome Israel" .
+
+berita:artikel_97 a schema1:NewsArticle ;
+    dc:date "01 March 2026, 10:32" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tb7b5o472/risiko-politik-swasembada-beras-berkelanjutan" ;
+    dc:subject "Politik" ;
+    dc:title "Risiko Politik Swasembada Beras Berkelanjutan" .
+
+berita:artikel_98 a schema1:NewsArticle ;
+    dc:date "28 February 2026, 16:49" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tb5xyf522/gerakan-mahasiswa-jangan-sampai-ditunggangi-kepentingan-politik" ;
+    dc:subject "Politik" ;
+    dc:title "Gerakan Mahasiswa Jangan Sampai Ditunggangi Kepentingan Politik" .
+
+berita:artikel_99 a schema1:NewsArticle ;
+    dc:date "25 February 2026, 17:10" ;
+    dc:publisher "Republika" ;
+    dc:source "https://republika.co.id/berita//tb0exi320/merawat-dapur-bangsa-di-dunia-tanpa-wasit-ray-dalio-prabowo-subianto-dan-politik-bertahan-hidup" ;
+    dc:subject "Politik" ;
+    dc:title "Merawat Dapur Bangsa di Dunia tanpa Wasit: Ray Dalio, Prabowo Subianto, dan Politik Bertahan Hidup" .
+
