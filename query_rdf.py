@@ -6,13 +6,13 @@ def query_berita(file="berita.ttl", sumber=None):
 
     filter_clause = ""
     if sumber:
-        filter_clause = f'FILTER(?sumber = "{sumber}")'
+        filter_clause = f'FILTER(str(?sumber) = "{sumber}")'
 
     sparql_query = f"""
     PREFIX dc:     <http://purl.org/dc/elements/1.1/>
     PREFIX schema: <http://schema.org/>
 
-    SELECT ?judul ?url ?tanggal ?kategori ?sumber
+    SELECT DISTINCT ?judul ?url ?tanggal ?kategori ?sumber
     WHERE {{
         ?artikel a schema:NewsArticle ;
                  dc:title     ?judul ;
